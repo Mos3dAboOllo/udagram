@@ -61,6 +61,7 @@ jobs:
       - checkout
       - run:
           name: Deploy App
+          no_output_timeout: 3m
           # Install, build, deploy in both apps
           command: |
             echo "Install, build, deploy in both apps"
