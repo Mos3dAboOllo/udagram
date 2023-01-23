@@ -14,6 +14,6 @@ global:
   platform_name: null
   platform_version: null
   profile: default
-  repository: udagram
-  sc: git
+  repository: null
+  sc: null
   workspace_type: Application
