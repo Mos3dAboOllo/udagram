@@ -19,8 +19,7 @@ includes all the major components of a Full-Stack web application.
 
 
 # Application link 
-
-https://my-256999118127-bucket.s3.amazonaws.com/home
+http://my-256999118127-bucket.s3-website-us-east-1.amazonaws.com
 
 
 
